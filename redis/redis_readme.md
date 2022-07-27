@@ -1,1 +1,1 @@
-just extract latest release of redis here.
+just extract latest release of redis here. and mv redis-x.x.x redis
