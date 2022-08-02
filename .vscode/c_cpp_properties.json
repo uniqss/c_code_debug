@@ -3,7 +3,8 @@
         {
             "name": "lc",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/redis/redis/src/**"
             ],
             "defines": [],
             // "compilerPath": "/usr/local/bin/gcc",
