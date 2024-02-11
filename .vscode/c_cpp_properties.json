@@ -4,7 +4,8 @@
             "name": "lc",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/redis/redis/src/**"
+                "${workspaceFolder}/redis/redis/src/**",
+                "${workspaceFolder}/nginx/nginx/src/**"
             ],
             "defines": [],
             // "compilerPath": "/usr/local/bin/gcc",

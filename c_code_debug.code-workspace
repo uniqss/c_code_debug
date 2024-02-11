@@ -4,5 +4,18 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"*.controller": "yaml",
+			"*.anim": "yaml",
+			"*.playable": "yaml",
+			"*.asset": "yaml",
+			"*.mat": "yaml",
+			"*.inc": "cpp",
+			"*.lua.txt": "lua",
+			"ngx_core.h": "c",
+			"ngx_config.h": "c",
+			"ngx_auto_headers.h": "c"
+		}
+	}
 }
